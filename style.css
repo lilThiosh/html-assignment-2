@@ -1,0 +1,20 @@
+h1 {
+    color: whitesmoke;
+    text-align: center;
+    object-fit: contain;
+    
+}
+body {
+    background-image: url(images/samurai\ swords\ wallpaper\ -\ Google\ Search.jpeg);
+    color: whitesmoke;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+/*h2 {
+    object-fit: fill;
+    object-position: center;
+}
+h3 {
+    font-size: small;
+}/*
